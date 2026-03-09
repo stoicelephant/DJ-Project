@@ -1,0 +1,4 @@
+src/backend/.env
+src/audio_files/
+src/backend/spotdl-testing/
+env/
